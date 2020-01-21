@@ -34,5 +34,5 @@ Fazendo aparecer a lista de abreviações (Deve ser rodado toda vez que incluir 
     
     $ makeindex TCC.nlo -s nomencl.ist -o TCC.nls
 
-# Built With
+# Feito com
 - [LaTeX](https://www.latex-project.org): A document preparation system.
