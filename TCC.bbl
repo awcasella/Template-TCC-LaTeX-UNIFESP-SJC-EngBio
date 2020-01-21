@@ -1,0 +1,77 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Atkins and Jones(2012)]{Atkins:2012}
+Peter~William Atkins and Loretta Jones.
+\newblock \emph{Princípios de Química: questionando a vida moderna e o meio
+  ambiente}, volume~1.
+\newblock Bookman, 5 edition, 2012.
+
+\bibitem[Bloch(1946)]{Bloch:1946}
+F.~Bloch.
+\newblock Nuclear induction experiment.
+\newblock \emph{Physical Review}, 1946.
+
+\bibitem[de~Graaf(2001)]{Graaf:2001}
+K.~V. de~Graaf.
+\newblock \emph{Human Anatomy}.
+\newblock McGraw-Hill, sexta edição edition, 2001.
+
+\bibitem[Gonzalez and Woods(2007)]{Gonzalez:2007}
+R.~C. Gonzalez and R.~E. Woods.
+\newblock \emph{Digital Image Processing}.
+\newblock Pearson, 3ª edition, 2007.
+\newblock URL
+  \url{http://gen.lib.rus.ec/book/index.php?md5=20f9b43c7022aa79e7b75e534220e386}.
+
+\bibitem[Haacke et~al.(1999)Haacke, Brown, Thompson, and
+  Venkatesan]{Haacke:1999}
+E.~Mark Haacke, Robert~W. Brown, Michael~R. Thompson, and Ramesh Venkatesan.
+\newblock \emph{Magnetic resonance imaging: Physical principles and sequence
+  design}.
+\newblock Wiley-Liss, 1st edition, 1999.
+\newblock ISBN 0471351288,9780471351283.
+\newblock URL
+  \url{http://gen.lib.rus.ec/book/index.php?md5=EE11EF1A4948C242CBDBFC3EE0B8DBA4}.
+
+\bibitem[Landini et~al.(2005)Landini, Positano, and Santarelli]{Landini:2005}
+L.~Landini, V.~Positano, and M.~F. Santarelli.
+\newblock \emph{Advanced Image Processing in Magnetic Resonance Imaging}.
+\newblock CRC Press, 2005.
+
+\bibitem[Lauterbur(1973)]{Lauterbur:1973}
+P.~C. Lauterbur.
+\newblock Image formation by induced local interactions - examples employing
+  nuclear magnetic resonance.
+\newblock \emph{Nature}, 1973.
+
+\bibitem[Polli(2010)]{Polli:2010}
+Robérson~Saraiva Polli.
+\newblock Imagens de ressonância magnética no estudo de epilepsia induzida
+  por pilocarpina e ácido caínico: Relaxometria e volumetria.
+\newblock Master's thesis, Universidade Federal de São Paulo, 2010.
+
+\bibitem[Prince and Links(2014)]{Prince:2014}
+Jerry~L. Prince and Jonathan~M. Links.
+\newblock \emph{Medical Imaging: Signals and Systems}.
+\newblock Signal Processing, Computer assisted. Pearson, 2 edition, 2014.
+\newblock ISBN 978-0132145183.
+\newblock URL
+  \url{http://gen.lib.rus.ec/book/index.php?md5=7dc7e31050372ccc8205593490744673}.
+
+\bibitem[Purcell(1946)]{Purcell:1946}
+E.~M. Purcell.
+\newblock Resonance absorption by nuclear magnetics moments in a solid.
+\newblock \emph{Physical Review}, 1946.
+
+\bibitem[Theodoridis(2009)]{Theodoridis:2009}
+K.~Theodoridis, S. e~Koutroumbas.
+\newblock \emph{Pattern recognition}.
+\newblock Elsevier, 2009.
+\newblock 4ª Edição.
+
+\end{thebibliography}
