@@ -18,9 +18,9 @@ Para gerar .pdf a partir de .tex é necessário instalar o Texlive.
 
 Cloning the Repository
 
-    $ git clone https://github.com/awcasella/Template-TCC-LaTex.git
+    $ git clone https://github.com/awcasella/Template-TCC-LaTeX-UNIFESP-SJC-EngBio.git
 
-    $ cd Template-TCC-LaTex
+    $ cd Template-TCC-LaTeX-UNIFESP-SJC-EngBio
   
 Compilando o projeto (necessário compilar 2x ou 3x algumas vezes):
 
